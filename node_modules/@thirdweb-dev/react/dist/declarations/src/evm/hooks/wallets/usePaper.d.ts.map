@@ -1,0 +1,1 @@
+{"version":3,"file":"usePaper.d.ts","sourceRoot":"../../../../../../src/evm/hooks/wallets","sources":["usePaper.ts"],"names":[],"mappings":"AAGA,OAAO,EAEL,cAAc,EAEf,MAAM,uBAAuB,CAAC;AAE/B,wBAAgB,cAAc,cAGV;IAAE,OAAO,CAAC,EAAE,MAAM,CAAC;IAAC,QAAQ,EAAE,MAAM,CAAA;CAAE,mBAQzD;AAED,wBAAgB,uBAAuB,IAAI,cAAc,CAAC,MAAM,EAAE,MAAM,CAAC,CAuBxE"}
